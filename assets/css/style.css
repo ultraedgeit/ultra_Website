@@ -45,7 +45,7 @@ body {
 	--primary--color: #0e151d;
 	--secondary--color: #fff;
 	--text-color: #545454;
-	--accent-color: #0cbe7e;
+	--accent-color: #376469;
 	--dark-blue-color:#3b3c4e;
 }
 /****** headerm and banner section******/
@@ -326,7 +326,7 @@ body {
 	vertical-align: middle;
 }
 .client-box-item figure{
-	margin-bottom: 37px;
+	margin-bottom: 10px;
 }
 .client-box ul li:nth-child(2){
 	background: #f2f6fc;
