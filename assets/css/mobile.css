@@ -652,7 +652,9 @@
         padding-bottom: 70px;
     }
     .sloution-box-lft-content img{
-        margin-bottom: 15px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        height: 80px;
     }
     h2 {
         font-size: 28px;
@@ -1040,7 +1042,8 @@
     .designer-con span {
         font-size: 12px;
         right: 5px;
-        bottom: 35px;
+        bottom: 25px;
+        
     }
     .designer-con{
         height: 96px;

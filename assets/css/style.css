@@ -1,7 +1,6 @@
 /*------------------------------------------------------------------
 [Master Stylesheet]
 
-Project:    DezVu
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [Table of contents]
@@ -324,6 +323,7 @@ body {
 .client-box-item{
 	display: table-cell;
 	vertical-align: middle;
+	
 }
 .client-box-item figure{
 	margin-bottom: 10px;
